@@ -1,0 +1,14 @@
+#navbar{
+    border-bottom:1px solid rgba(187, 187, 187, 0.253);
+}
+#searchInput{
+    outline: none;
+    border: 0.5px solid rgba(211, 211, 211, 0.438);
+}
+.badgeAlert{
+    right:-15px;
+    top: -10px;
+}
+#user{
+    margin-left: auto;
+}

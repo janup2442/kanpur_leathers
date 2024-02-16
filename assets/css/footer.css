@@ -1,0 +1,8 @@
+#newsletter{
+    display: flex;
+    flex-direction: column;
+    /* background-color: red; */
+}
+#siteMap>li>a:hover{
+    color: black;
+}
